@@ -1,0 +1,22 @@
+2025 May 30 - Version 1.0.6 ❄️
+* Compatibility testing with WordPress 6.8
+
+2024 October 22 - Version 1.0.5 ❄️
+* Mobile responsiveness 
+* Design bugs fixed
+
+2024 August 10 - Version 1.0.4 ❄️
+* Feature: Breadcrumb, Back to top
+* Compatibility testing with WordPress 6.6
+
+2024 January 25 - Version 1.0.3 🐞
+* FIXED: Minor Issues fixed
+
+2023 July 29- Version 1.0.2 ❄️
+* FIXED: Minor Issues Fixed 
+
+2022 December 29- Version 1.0.1 ❄️
+* FIXED: Warning Fixed
+
+2022 December 25- Version 1.0.0 ❄️
+* Intial Release
